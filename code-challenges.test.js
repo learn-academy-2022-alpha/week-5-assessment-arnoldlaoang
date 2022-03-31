@@ -13,7 +13,7 @@
 
 // --------------------1) Create a function that takes in a string and returns a coded message. The coded message converts 'a' to 4, 'e' to 3, 'i' to 1, and 'o' to 0.
 
-// a) Create a test with expect statements using the variables provided.
+// a) Create a test with expected statements using the variables provided.
 
 const secretCodeWord1 = "Lackadaisical"
 // Expected output: "L4ck4d41s1c4l"
